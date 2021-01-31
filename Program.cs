@@ -1,4 +1,7 @@
 ﻿using System;
+//Used to calculate tax.incl and tax.excl for my company
+//今の職場の為に作りました。昔のように人間のミスの可能性のある電卓を使うのはどうかと思い作りました。
+//C#に関してはすごい初心者でありますのでよろしくお願いします。
 
 namespace varioustests
 {
